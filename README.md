@@ -9,7 +9,8 @@ published, including the OASIS Akoma Ntoso standard, and I wrote
 
 Most repositories here are part of an archive of 33 documents in Akoma Ntoso XML,
 styled with CSS, from the Code of Hammurabi to the GDPR.
-The story behind them: [An Archive of Laws in Akoma Ntoso](https://grantvergottini.com/2026/11/06/an-archive-of-laws-in-akoma-ntoso/)
+Browse the full list at [grantvergottini.com/akoma-ntoso](https://grantvergottini.com/akoma-ntoso/),
+or read the story behind them: [An Archive of Laws in Akoma Ntoso](https://grantvergottini.com/2026/11/06/an-archive-of-laws-in-akoma-ntoso/)
 
 ## Elsewhere
 
